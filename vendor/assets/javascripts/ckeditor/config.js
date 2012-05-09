@@ -59,7 +59,7 @@ CKEDITOR.editorConfig = function( config )
         ['Styles','Format'], ['Subscript', 'Superscript', 'TextColor'], ['Maximize','-','About'], '/',
         ['Bold','Italic','Underline','Strike'], ['NumberedList','BulletedList','-','Outdent','Indent','Blockquote'],
         ['JustifyLeft','JustifyCenter','JustifyRight','JustifyBlock'],
-        ['Link','Unlink','Anchor'], ['Image', 'Attachment', 'Flash', 'Embed'],
+        ['Link','Unlink','Anchor'], ['Image', 'Attachment', 'Flash', 'Embed', 'Vimeo', 'Youtube'],
         ['Table','HorizontalRule','Smiley','SpecialChar','PageBreak']
     ];
 };
