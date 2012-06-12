@@ -10,16 +10,12 @@ body
 	font-size: 12px;
 
 	/* Text color */
-	color: #222;
+	color: #000;
 
 	/* Remove the background color to make it transparent */
-	background-color: #fff;
-}
-
-ol,ul,dl
-{
-	/* IE7: reset rtl list margin. (#7334) */
-	*margin-right:0px;
-	/* preserved spaces for list items with text direction other than the list. (#6249,#8049)*/
-    padding:0 40px;
+	background-color: #000;
+font-size: 15px;
+line-height: 20px;
+color: #fff;
+font-family: PTSansNarrowRegular, arial, sans-serif;
 }
